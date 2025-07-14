@@ -20,6 +20,8 @@ public class Principal {
 		
 		List<Alumnos> registro = new ArrayList<Alumnos>();
 		List<Alumnos> registroMostar = null;
+		//variable cambiada
+		int numero1=20;
 		
 		int menuPrincipal, subMenu, indice;
 		
